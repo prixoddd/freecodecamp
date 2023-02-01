@@ -5,8 +5,5 @@ function trueOrFalse(wasThatTrue) {
   } else {
     return "No, that was false";
   }
-  
-  
-    // Only change code above this line
-  
+
   }
