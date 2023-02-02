@@ -23,4 +23,4 @@ function switchItUp(n) {
       default:
         return 'Enter a number between 0 and 9';
     }
-  }
+}
